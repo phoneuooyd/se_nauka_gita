@@ -1,6 +1,6 @@
 <?php
 
-function add(){
+function add(a, b){
 	return(a+b)/2;
 }
 
