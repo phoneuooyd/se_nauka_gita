@@ -1,7 +1,8 @@
+
 <?php
 
-function add(a, b){
-	return(a+b)/2;
+function add_wazona(a, b, x, y){
+	return((a*x) + (b*y)/2;
 }
 
 ?>
